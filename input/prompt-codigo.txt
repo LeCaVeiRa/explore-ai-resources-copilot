@@ -1,0 +1,1 @@
+escreva um script para resolver o algoritmo de Dijkstra em python
